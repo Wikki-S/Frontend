@@ -1,0 +1,19 @@
+input{
+    width: 95%;
+    border: 1px solid #eee;
+    padding: .5rem;
+    background: #ececec;
+
+}
+input:focus{
+    border:1px solid #eee;
+    outline: unset;
+}
+.form-control.false p {
+    color: red;
+}
+textarea {
+    width: 97%;
+    border: 1px solid #eee;
+    background: #ececec;
+}
